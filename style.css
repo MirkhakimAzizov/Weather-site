@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.list {
+    min-height: 50vh;
+}
+
+.card {
+    max-width: 360px;
+    background-color: #16394c;
+}
+
+.card-text {
+    display: block;
+    padding: 0;
+}
