@@ -2,6 +2,7 @@
 
 const API_KEY = 'https://api.openweathermap.org/data/2.5/';
 const ACCESS_KEY = 'a112f5b170614cf805801cefd3628436';
+
 let region;
 
 let data = [];
